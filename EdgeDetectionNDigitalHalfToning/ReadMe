@@ -1,0 +1,10 @@
+Implementations of edge detection and digital half toning algorithms
+1.Edge Detection algorithms
+-Soble Edge Detector
+-Canny Edge Detector
+-Structured Edge Detector
+
+2.Digital Half-toning
+-Dithering
+-Error Diffusion
+-Color Halftoning with Error Diffusion
