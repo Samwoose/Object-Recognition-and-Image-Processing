@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>"C:\Users\tjdtk\HW2_Images\Pr1\Dogs.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Dogs_xEdge.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Dogs_yEdge.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Dogs_MagnitudeEdge.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Gallery.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Gallery_xEdge.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Gallery_yEdge.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Gallery_MagnitudeEdge.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Gallery_TunnedEdge.raw" "C:\Users\tjdtk\HW2_Images\Pr1\Dogs_TunnedEdge.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse_Fixed.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse_Random.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse_2X2.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse_8X8.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse_32X32.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse_floyd.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse_jjn.raw" "C:\Users\tjdtk\HW2_Images\Pr2\LightHouse_stucki.raw" "C:\Users\tjdtk\HW2_Images\Pr2\Rose.raw" "C:\Users\tjdtk\HW2_Images\Pr2\Rose_seperable.raw" "C:\Users\tjdtk\HW2_Images\Pr2\Rose_MBVQ.raw"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
