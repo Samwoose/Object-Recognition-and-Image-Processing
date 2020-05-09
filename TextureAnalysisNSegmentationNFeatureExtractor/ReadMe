@@ -1,0 +1,16 @@
+Implementation of texture analysis, segmentation, and image feature extractor
+1.Texture Analysis
+-Laws' filter
+-K means clustering
+-Support vector machine
+-Random forest
+
+2.Texture Segmentation
+-Energy feature computation
+-K means clustering
+-PCA
+
+3.Image Feature Extractors
+-Salient Point Descriptor
+-SIFT
+-Bag of Words
