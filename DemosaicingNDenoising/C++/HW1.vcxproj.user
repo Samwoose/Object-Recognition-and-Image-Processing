@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>"C:\Users\tjdtk\HW1_Images\Dog.raw" "C:\Users\tjdtk\HW1_Images\Dog_Bi.raw" "C:\Users\tjdtk\HW1_Images\Dog_MHC.raw" "C:\Users\tjdtk\HW1_Images\Corn_noisy.raw" "C:\Users\tjdtk\HW1_Images\Corn_mean.raw" "C:\Users\tjdtk\HW1_Images\Corn_gaus.raw" "C:\Users\tjdtk\HW1_Images\Corn_gray.raw" "C:\Users\tjdtk\HW1_Images\Corn_Bi_Deno.raw" "C:\Users\tjdtk\HW1_Images\Corn_NLM.raw" "C:\Users\tjdtk\HW1_Images\Toy.raw" "C:\Users\tjdtk\HW1_Images\Toy_MethodA.raw" "C:\Users\tjdtk\HW1_Images\Toy_MethodB.raw" </LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
