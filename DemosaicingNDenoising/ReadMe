@@ -1,1 +1,13 @@
-Implementation of demosaicing and denosing algorithms.
+Implementation of demosaicing, denosing, and histogram manipulation algorithms.
+1.Demosaicing algorithms
+ -Bilinear Demosaicing
+ -Malvar-He-Cutler (MHC) Demosaicing
+2.Histogram Manipulation algorithms
+ -Bucket method
+ -PDF method
+3.Denoising algorithms
+ -mean filter
+ -Gaussian filter
+ -Bilateral filter
+ -Non-Local Mean (NLM) filter
+ -Block matching and 3-D (BM3D) transform filter
